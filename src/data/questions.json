@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "question": "React is mainly used for?",
+    "options": [
+      "Styling",
+      "Mobile Apps",
+      "Building UI",
+      "None"
+    ],
+    "answer": "Building UI"
+  },
+  {
+    "id": 2,
+    "question": "Which hook is used for state?",
+    "options": [
+      "useEffect",
+      "useState",
+      "useMemo",
+      "useContext"
+    ],
+    "answer": "useState"
+  },
+  {
+    "id": 3,
+    "question": "Which data structure uses FIFO?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "id": 4,
+    "question": "Which sorting algorithm has the best average time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Selection Sort",
+      "Merge Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "id": 5,
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 6,
+    "question": "Which language is mainly used for web page styling?",
+    "options": [
+      "HTML",
+      "CSS",
+      "Java",
+      "Python"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "id": 7,
+    "question": "Which SQL command is used to fetch data?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "SELECT",
+      "DELETE"
+    ],
+    "answer": "SELECT"
+  },
+  {
+    "id": 8,
+    "question": "Which protocol is used to transfer web pages?",
+    "options": [
+      "FTP",
+      "SMTP",
+      "HTTP",
+      "TCP"
+    ],
+    "answer": "HTTP"
+  },
+  {
+    "id": 9,
+    "question": "What is the full form of OOP?",
+    "options": [
+      "Object Oriented Programming",
+      "Object Ordered Programming",
+      "Operation Oriented Programming",
+      "Object Operating Process"
+    ],
+    "answer": "Object Oriented Programming"
+  },
+  {
+    "id": 10,
+    "question": "Which data structure uses LIFO?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 11,
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": [
+      "implement",
+      "inherits",
+      "extends",
+      "super"
+    ],
+    "answer": "extends"
+  },
+  {
+    "id": 12,
+    "question": "Which of these is a NoSQL database?",
+    "options": [
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "answer": "MongoDB"
+  },
+  {
+    "id": 13,
+    "question": "Which layer of OSI model is responsible for routing?",
+    "options": [
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer",
+      "Data Link Layer"
+    ],
+    "answer": "Network Layer"
+  },
+  {
+    "id": 14,
+    "question": "Which traversal method uses recursion most commonly?",
+    "options": [
+      "Binary Search",
+      "Tree Traversal",
+      "Hashing",
+      "Linear Search"
+    ],
+    "answer": "Tree Traversal"
+  },
+  {
+    "id": 15,
+    "question": "Which symbol is used for comments in JavaScript?",
+    "options": [
+      "<!-- -->",
+      "//",
+      "#",
+      "/*# */"
+    ],
+    "answer": "//"
+  }
+]
